@@ -1,0 +1,26 @@
+#main{
+    background-color: #dbdbdb;
+}
+#img-id{
+
+    background-color: whitesmoke;
+}
+#title{
+    text-align: center;
+}
+
+.responsive{
+    
+       width:100%;
+       height:auto;
+}
+#imagine{
+    width:100%;
+    height:auto;
+}
+#img-caption{
+    text-align: center;
+}
+#tribute-info{
+    text-align: center;
+}
